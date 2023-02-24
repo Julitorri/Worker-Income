@@ -1,0 +1,15 @@
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\bin\Debug\net6.0\CourseC_ex01.exe
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\bin\Debug\net6.0\CourseC_ex01.deps.json
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\bin\Debug\net6.0\CourseC_ex01.runtimeconfig.json
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\bin\Debug\net6.0\CourseC_ex01.dll
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\bin\Debug\net6.0\CourseC_ex01.pdb
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.csproj.AssemblyReference.cache
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.AssemblyInfoInputs.cache
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.AssemblyInfo.cs
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.csproj.CoreCompileInputs.cache
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.dll
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\refint\CourseC_ex01.dll
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.pdb
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\CourseC_ex01.genruntimeconfig.cache
+C:\Users\laptop\source\repos\CourseC_ex01\CourseC_ex01\obj\Debug\net6.0\ref\CourseC_ex01.dll
